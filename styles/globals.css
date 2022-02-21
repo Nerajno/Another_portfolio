@@ -62,6 +62,7 @@ header a {
 
 .btn:hover {
   transform: scale(0.98);
+  font-weight: bold;
 }
 
 .btn-back {
