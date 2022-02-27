@@ -1,8 +1,8 @@
 ---
 title: '6 Strategies Learned from 6 months of Job Hunting'
-date: 'Sept 21,, 2021'
+date: 'Sept 21,2021'
 excerpt: 'Django is a very powerful, high level Python framework for building web applications'
-cover_image: '../images/6strategiesimage.jpg'
+cover_image: './images/posts/6strategiesimage.jpg'
 ---
 
 After months of applying, interviewing, building, practising, connecting with others in the industry and being ghosted, I got an email that would change my previous situation, #opentowork to currently at _**XYZ**_. The email started with the line I spent months waiting to hear. _“We are pleased to offer you the position of Fullstack Developer.”_  I think I stared at it for a few minutes and double-checked the header to make sure it wasn’t an ill-mannered prank.
