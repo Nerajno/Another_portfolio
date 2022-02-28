@@ -1,8 +1,8 @@
 ---
 title: '6 Strategies Learned from 6 months of Job Hunting'
 date: 'Sept 21,2021'
-excerpt: 'Django is a very powerful, high level Python framework for building web applications'
-cover_image: './images/posts/6strategiesimage.jpg'
+excerpt: 'Job hunting strategies from 6 monthis of the "job hunt".'
+cover_image: '/images/posts/6strategiesimage.jpg'
 ---
 
 After months of applying, interviewing, building, practising, connecting with others in the industry and being ghosted, I got an email that would change my previous situation, #opentowork to currently at _**XYZ**_. The email started with the line I spent months waiting to hear. _“We are pleased to offer you the position of Fullstack Developer.”_  I think I stared at it for a few minutes and double-checked the header to make sure it wasn’t an ill-mannered prank.
@@ -15,7 +15,10 @@ Let's see, it's been 182 days had passed since I last had a paying position. Tha
 
 
 ### Networking
-{% twitter 1438175151829442569 %}
+<!-- {{ < tweet 1438175151829442569 > }} -->
+
+
+
 
 You are the sum of the six people you surround yourself with. I think that’s one of the lessons I learned from skimming the book: _The 7 Habits of Highly Effective People by Stephen Covey_.  I decided to surround myself with those I could learn from, but it didn’t stop at coding or developers, as my future demanded a different version of me. I took the time to become an active participant in certain communities both virtually and in-person (namely 
 [FreeCodeCamp](https://twitter.com/freeCodeCamp), [CodeNewbies](https://twitter.com/CodeNewbies), the tech side of Twitter, [Technologists of Color](https://twitter.com/techsofcolor) and most recently, [Virtual Coffee](https://twitter.com/VirtualCoffeeIO)), this meant commenting, presenting, talking, listening, contributing from your unique skillset, asking for help, participating and building new connections. 
