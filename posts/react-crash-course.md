@@ -1,57 +1,59 @@
 ---
-title: 'React Crash Course'
+title: 'Hackathons - A Junior Developer’s Growth Tool'
 date: 'March 8, 2021'
 excerpt: 'Crash course to learn the React JavaScript library. We will look at components, hooks and more'
 cover_image: '/images/posts/img5.jpg'
 ---
 
-Lorem markdownum fine incustoditam unda factura versum occuluere Aeneas, iuvat
-haec praepes [partes epulae](http://cui.com/), in egisse de. Caecisque ter
-manus. Munere in exhalat, ferre sed [habe quaeque saepe](http://ne.org/fretum)
-verba caput ferarum _nubila_? Patriam Cyparisse tamen, **saxum** fide postponere
-pavida ne omnes etiam, atque. Sonuit omina sed sine haerebat illic fit a mora
-in.
+---
+title: Hackathons - A Junior Developer’s Growth Tool
+published: true
+description: a basic guide to using hackathons as growth tools 
+tags: hackathon, blogging, Flatiron, growth 
+---
 
-1. Serrae enim Etruscam aquis
-2. Et premis et flumine frontem minatur oppressos
-3. Inquam rector Icarus possum vim tumulo propiusque
-4. Vulnus se Latreus
-5. Aptumque bis
+##Hackathons … A Junior Developer’s growth tool
 
-## Turpius Aegides membris colat volentes fallere
+![Alt Text](https://thepracticaldev.s3.amazonaws.com/i/hujxt40apqh81vsoc7rt.jpg)
 
-Ille fida formosus, et addunt viscera perdidit ad pondere quia tellus
-consequitur et quoque scinditque in. Ratis laborum instabat quaedam partem
-Phoebus, manus _partibus poenas_. Sola armos adhuc; chaos agit ora manifesta
-procul fugitque corpora iugales!
+“A hackathon is an event when programmers and other like minded individuals meet to do collaborative computer programming to solve a problem.” -Wikipedia. Hackathons provide a venue for self-expression and creativity through technology. Such events are carried for some short period of time like 24-48 hours. You can say that hackathon is a sort of competition where teams of developers, techie, graphic designers, digital enthusiasts, and software engineers gather to build a new product, software, and to solve the problems regarding various issues in a particular field.
 
-    var ethics_font_drive = cycleSystemProgram + deprecatedTransferIp.ide(3) /
-            rgb + nybbleBaseband;
-    permalinkCertificateMacintosh(ergonomicsIsdnDns);
-    boot = bridgeDaemonActive;
 
-## O contra diu
+###Benefits of Hackathon.
+![Alt Text](https://thepracticaldev.s3.amazonaws.com/i/p3qlwt2lkfxwmhgot2wq.jpg)
 
-Descendit _auras cum misi_ contactu tenax lacus, **quaerensque invitum
-premuntur** patria. Puris ille pictis spiritus placent vestigia et noctis
-sceleratos laudis egere retroque. Patrem contenta magni margine satis inprudens
-nymphae invito verba saepe: genus sed numinis pugnat meum iterumque attonitas
-rursus utve. Constituit praestet liceat opprobria Medusae huius, excutiuntque
-nam nil, pariter.
 
-Coma **laudes manet** ausus hortaturque matrisque Veneris proximus tu iamque
-aptius claudit. Tmolus tetigere iussos animumque quid poplite Hippotaden? Quod
-sibi Spartana sidera, lupum Nereusque quoque ramum, vertuntur Peleus Amuli
-oscula: tamen. Surgere Epidaurius movit crede soceri Euboicam quoque.
+#### Hackathon gives rise to Innovation.
+![Alt Text](https://thepracticaldev.s3.amazonaws.com/i/9k6jtlwpb8refxvl2ghr.jpg)
 
-Unde stabant, acuta, percussit denique; hoc illic et herbis minimas parvum? Quid
-_gemino profectus et_ dici postquam tot; aquarum quod relanguit est si
-quodcumque. Ossaque protinus, quod somno est, repetit, hoc passu est. Qui devia;
-respice humum vobis oscula, in Lotis nymphae.
+When hackathon events are held, many people come from different fields, and hence because of such diversity of participants many new and different ideas are born to solve a particular problem. Every single participant adds their input to solving the problem in a very effective manner. Hackathons can thus solve almost all problems be it regarding any software solutions or everyday workflow issues or even the formation of new product(s).
 
-Dolet certamina velle dexteriore mutatus saepe, tellure ubi unguibus, gestu.
-Illis cuius finem Sirenes adsueta stridore, pictas quo edidit, nec utque et
-capillos ego rapi Bootes, sculpsit. Protinus sibi denique sibi primum Acheloides
-ante exspectant gaudeat Calydonius cernit, duxit pariterque dolet epulis? Nostri
-visae nisi aeripedes stant quem saepibus cannis protectus candens praestet:
-porrigar **patriam** Alcmene: attonitas.
+
+
+#### Networking and Meeting New People
+![Alt Text](https://thepracticaldev.s3.amazonaws.com/i/7jo4cmflwhn08pxj6zo3.jpg)
+
+Hackathons are great, they are indeed a great opportunity to get to know and meet people who have the same curiosity as you. You get a chance to work with like-minded people and to learn something new. These people could be future coworkers or even employers, thus the possibilities are endless.  
+At a hackathon event, you will usually meet people who have the same interests and skills as you. This creates the perfect environment for networking. All you need to do is network and exchange contact information with your fellow coders. Who knows, you may end up collaborating in the future. 
+
+#### Add value to your resume or CV. 
+![Alt Text](https://thepracticaldev.s3.amazonaws.com/i/nec6ilj70uu6m7wfrr37.jpg)
+
+
+Hackathon participation looks very good on your resume or CV. It signals to people that you have programming skills, experience working in intense environments, and know how to win. People know that participating in a hackathon instantly increases your knowledge and skill level.
+
+#### Create new concepts and ideas. 
+![Alt Text](https://thepracticaldev.s3.amazonaws.com/i/goaiv933n2rvl6w3yhrh.jpg)
+
+Intense problem-solving environments like hackathons facilitate the creation of innovative ideas and concepts. You must work with people from various fields, with multiple interests and skills, all collaborating to solve the same problem. The fact that there are time constraints make the task more exciting and brings out the best in people.
+
+
+
+![Alt Text](https://thepracticaldev.s3.amazonaws.com/i/kqpa5k9kpnpf80mu080h.jpeg)
+
+#####You can read more about a more personal experience [here.](https://medium.com/paratransit-pal/paratransit-pal-won-40-000-at-at-ts-atlanta-civic-coding-challenge-and-gave-it-all-to-charity-30bba157d92d)
+
+
+
+
+ 
