@@ -1,57 +1,66 @@
 ---
-title: 'Tailwind vs. Bootstrap'
-date: 'March 5, 2021'
-excerpt: 'Both Tailwind and Bootstrap are very popular CSS frameworks. In this article, we will compare them'
+title: 'Writing The Needed ReadMe'
+date: 'Oct 16, 2019'
+excerpt: 'An actionable  guide to importance of writing good ReadMe'
 cover_image: '/images/posts/img2.jpg'
 ---
 
-Lorem markdownum fine incustoditam unda factura versum occuluere Aeneas, iuvat
-haec praepes [partes epulae](http://cui.com/), in egisse de. Caecisque ter
-manus. Munere in exhalat, ferre sed [habe quaeque saepe](http://ne.org/fretum)
-verba caput ferarum _nubila_? Patriam Cyparisse tamen, **saxum** fide postponere
-pavida ne omnes etiam, atque. Sonuit omina sed sine haerebat illic fit a mora
-in.
 
-1. Serrae enim Etruscam aquis
-2. Et premis et flumine frontem minatur oppressos
-3. Inquam rector Icarus possum vim tumulo propiusque
-4. Vulnus se Latreus
-5. Aptumque bis
 
-## Turpius Aegides membris colat volentes fallere
+tags: #Flatiron, #bootcamp, #open source, #documentation Vs creation
+---
 
-Ille fida formosus, et addunt viscera perdidit ad pondere quia tellus
-consequitur et quoque scinditque in. Ratis laborum instabat quaedam partem
-Phoebus, manus _partibus poenas_. Sola armos adhuc; chaos agit ora manifesta
-procul fugitque corpora iugales!
+## A Guide to the Importance of Writing Good ReadMe’s
 
-    var ethics_font_drive = cycleSystemProgram + deprecatedTransferIp.ide(3) /
-            rgb + nybbleBaseband;
-    permalinkCertificateMacintosh(ergonomicsIsdnDns);
-    boot = bridgeDaemonActive;
 
-## O contra diu
+![Black female developer ](https://thepracticaldev.s3.amazonaws.com/i/2iap6bvbcumg3isci8og.jpg)
 
-Descendit _auras cum misi_ contactu tenax lacus, **quaerensque invitum
-premuntur** patria. Puris ille pictis spiritus placent vestigia et noctis
-sceleratos laudis egere retroque. Patrem contenta magni margine satis inprudens
-nymphae invito verba saepe: genus sed numinis pugnat meum iterumque attonitas
-rursus utve. Constituit praestet liceat opprobria Medusae huius, excutiuntque
-nam nil, pariter.
+So here you are, you have good written code and uploaded it to whatever open source repository you use  Github, Gitlab, Bitbucket or even your own hosted repository. You are sure your code works, you have tested it, retested... even tested it on Becky's machine and refactored it on your machine and sure it works. So the question to the person who looks at you repo is ...... HOW THE HELL DOES IT WORK ?????
 
-Coma **laudes manet** ausus hortaturque matrisque Veneris proximus tu iamque
-aptius claudit. Tmolus tetigere iussos animumque quid poplite Hippotaden? Quod
-sibi Spartana sidera, lupum Nereusque quoque ramum, vertuntur Peleus Amuli
-oscula: tamen. Surgere Epidaurius movit crede soceri Euboicam quoque.
+![](https://thepracticaldev.s3.amazonaws.com/i/awzimx9okklsklgt2ert.jpg)
 
-Unde stabant, acuta, percussit denique; hoc illic et herbis minimas parvum? Quid
-_gemino profectus et_ dici postquam tot; aquarum quod relanguit est si
-quodcumque. Ossaque protinus, quod somno est, repetit, hoc passu est. Qui devia;
-respice humum vobis oscula, in Lotis nymphae.
+###Why care about the README ?
 
-Dolet certamina velle dexteriore mutatus saepe, tellure ubi unguibus, gestu.
-Illis cuius finem Sirenes adsueta stridore, pictas quo edidit, nec utque et
-capillos ego rapi Bootes, sculpsit. Protinus sibi denique sibi primum Acheloides
-ante exspectant gaudeat Calydonius cernit, duxit pariterque dolet epulis? Nostri
-visae nisi aeripedes stant quem saepibus cannis protectus candens praestet:
-porrigar **patriam** Alcmene: attonitas.
+As developers, we release tonnes of projects on open-source repositories. A good ReadMe allows you and your project the ability to standout among the sea of developers, it should be well crafted as your project. In brief, a ReadMe is like the face of your code. It is the first file a new user should read when encountering your project repo , and it should be written as a very brief and giving very basic introduction to your code. In other words ‘ A good README is for others to understand what our code includes, and why it's noteworthy. A README file is also essential to retrieve a project - on GitHub but also in browsers.
+
+
+ ![](https://thepracticaldev.s3.amazonaws.com/i/rcr2xokn7x1f6ktszlsz.jpg)
+
+###Another insight for Junior Devs
+
+OK, now let's check why we should care for our README files since the first project! Even if the code is just for you, possibly you will come back to it after a while. A good README enables you to relaunch a project - without wasting your time on recalling: What was it all about? 
+          For a budding programmer, GitHub is a calling card. The pinned projects on GitHub are most often in our portfolio or are our portfolio. When we're at a career stage without a considerable commercial experience or nice-looking non-profit projects, a presentation of our achievements in a form of repositories is one of the best way to get visible to the recruiters and potential employers.
+        A preparation of several demonstration projects we want to show off during the interview works the best. If we are just learning and we drop our training projects there, let's pay attention to their good description. Even a non-technical recruiter will be able to recognize the technologies we touched, and check if it goes in line with a candidate's profile he's/she's looking for.
+
+![](https://thepracticaldev.s3.amazonaws.com/i/pmn28az12lj6hs51h0fr.jpg)
+
+###Lets take A Closer Look 
+
+So lets examine how a good ReadMe makes all the difference in if you would use an open-source project. Look at this  [repo's]   (https://tinyurl.com/Helln0p3) ReadMe, how does it work, what does it look like…… nada, zilch, no details. Thus, therefore I am way less likely to use this repo or even learn from it. 
+
+This repo’s [ReadMe] (https://github.com/Nerajno/Weather-App) on the other hand give the perspective user a better idea of how the code works, what is it all about and how they can use it .
+ 
+
+![](https://thepracticaldev.s3.amazonaws.com/i/0c2w7xa7dh2gwv9n80md.jpg)
+## Ok enough talk,  how do we do this….
+
+
+Below is an example of a good layout for a ReadMe citing the various sections and what they should contain.  
+
+{% gist https://gist.github.com/Nerajno/b7cedaa74c7d39b12a847aeca11bb1b8 %}
+
+##But how does it look ? 
+
+ Now that you have taught yourself how and what to write in a README, let’s talk a bit about the styling of README aka formatting.Formatting is an essential part of README. You can learn more about how to format your README from [here](https://help.github.com/en/articles/basic-writing-and-formatting-syntax?source=post_page---------------------------) and [here](https://github.com/github/markup/blob/master/README.md?source=post_page---------------------------).
+
+*In the end, Keep in mind —
+You don’t need to go full-bore Readme Driven Development, you don’t need to include all those bullet points , you don’t need to follow any particular process. But writing a good README will definitely improve your documentation skills which will make you a better developer.*
+
+Other persons take on the matter :
+
+[@sindresorhus](https://github.com/sindresorhus/pageres?source=post_page---------------------------),[@noffle](https://github.com/noffle/art-of-readme?source=post_page---------------------------) and [@matiassingers](https://github.com/matiassingers/awesome-readme?source=post_page---------------------------).
+
+I really hope this helped to change your mind on your code is written, till next time. Feel free to send feel back in the comments below or follow me on Twitter [@Nerajno](https://twitter.com/nerajno).
+
+
+![](https://thepracticaldev.s3.amazonaws.com/i/h3a4i8aia6k32z8ez60o.jpeg)

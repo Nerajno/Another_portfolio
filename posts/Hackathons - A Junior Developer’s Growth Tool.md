@@ -1,8 +1,8 @@
 ---
 title: 'Hackathons - A Junior Developer’s Growth Tool'
-date: 'March 8, 2021'
-excerpt: 'Crash course to learn the React JavaScript library. We will look at components, hooks and more'
-cover_image: '/images/posts/img5.jpg'
+date: 'Oct 19, 2019'
+excerpt: 'A brief guide of using hackathons as professional growth tools.'
+cover_image: '/images/posts/growthplant.jpg'
 ---
 
 ---

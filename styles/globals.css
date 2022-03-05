@@ -126,9 +126,9 @@ ol {
 }
 
 /* My Css */
-.footer {
+footer {
     flex-shrink: 0;
     text-align: center;
-    background-color: tomato;
+    background: #be29ec;
     color: white;
 }

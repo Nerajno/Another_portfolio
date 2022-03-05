@@ -1,11 +1,13 @@
 import Link from 'next/link'
 
-export default function Footer(){
+const Footer =() => {
     return(
         <footer>
-            <div className='container footer'>
+            <div className='container'>
                 <p> Footer text</p>
             </div>
         </footer>
     )
 }
+
+export default Footer; 
