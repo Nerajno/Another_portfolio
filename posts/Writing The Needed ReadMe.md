@@ -3,14 +3,8 @@ title: 'Writing The Needed ReadMe'
 date: 'Oct 16, 2019'
 excerpt: 'An actionable  guide to importance of writing good ReadMe'
 cover_image: '/images/posts/img2.jpg'
----
-
-
-
 tags: #Flatiron, #bootcamp, #open source, #documentation Vs creation
 ---
-
-## A Guide to the Importance of Writing Good ReadMe’s
 
 
 ![Black female developer ](https://thepracticaldev.s3.amazonaws.com/i/2iap6bvbcumg3isci8og.jpg)
