@@ -8,11 +8,12 @@ tags: Flatiron, FreeCodeCamp, developer, blogs
 
 ![](https://thepracticaldev.s3.amazonaws.com/i/qbpchpd8rlmal7lx8a79.jpeg)
 
-   Access to information has become fundamental human right and  the internet being what it is, has become a bastion of information.  The creation off of web pages and web apps has been the creative domain of programmers and software engineers of which 1.7% are blind ([StackOverFlow Survey 2018](https://insights.stackoverflow.com/survey/2018#demographics)). This blog aims to look into that part of the developer community. 
+   Access to information has become fundamental human right and  the internet being what it is, has become a bastion of information.  The creation off of web pages and web apps has been the creative domain of programmers and software engineers of which 1.7% are blind ([StackOverFlow Survey 2018](https://insights.stackoverflow.com/survey/2018#demographics)). This blog aims to look into that part of the developer community.
 
-#### [Side Note](https://www.theguardian.com/music/2019/jan/04/beyonce-parkwood-entertainment-sued-over-website-accessibility) 
+#### [Side Note](https://www.theguardian.com/music/2019/jan/04/beyonce-parkwood-entertainment-sued-over-website-accessibility)
 
-##A little history 
+## A little history
+
 ![](https://thepracticaldev.s3.amazonaws.com/i/kn31etzyy3gxuyj3f2hs.JPEG)
                             Jim Thatcher
 
@@ -21,19 +22,16 @@ Thus, He set out to solve this problem and came up with a solution([read about t
 
 [Sound of a screen reader](https://boingboing.net/2017/08/28/this-blind-software-developer.html)
 
-
-
-##Meet — Florian Beijers
+## Meet — Florian Beijers
 
 ![](https://thepracticaldev.s3.amazonaws.com/i/7kv4u8jviezwj0zp2d9h.jpg)
 
-He is a 26 year old developer and music lover. He is also completely blind and an avid contributor to FreeCodeCamp. 
+He is a 26 year old developer and music lover. He is also completely blind and an avid contributor to FreeCodeCamp.
 
 ### How does He work ?
 
-
 ![](https://thepracticaldev.s3.amazonaws.com/i/9v9v7mp5dlkeb53pvbye.jpg)
-                     Refreshable Braille Display 
+                     Refreshable Braille Display
 
 He used regular equipment that has special attachments, in his own words:
 I like this question, because it allows me to immediately explain how blind people actually use computers.
@@ -49,14 +47,13 @@ This is really all the adaptation a blind computer user needs. Using this progra
   +Browsing the web using Firefox
   +Writing up reports in Microsoft Word.
   +Writing up snazzy blog posts.
-  +Recording, editing, mixing and publishing audio (My hobbies include 
+  +Recording, editing, mixing and publishing audio (My hobbies include
    singing and making music).
   +Using audio production apps like Reaper, Goldwave, Audacity and Sonar
-  +Coding websites and applications using Eclipse, (the ironically named) 
+  +Coding websites and applications using Eclipse, (the ironically named)
    Visual Studio, and good old NotePad++.
 The reason I’m naming all these mainstream technologies is to show you that I can use them just like people who aren’t ocularly challenged.
 
 If you’re writing the next big application, with a stunning UI and a great workflow, I humbly ask you to consider accessibility as part of the equation. In this day and age, there’s really no reason not to use the UI toolkits available. It’s a lot easier than you may think. Yes, these include the Android Activities, iOS NsViews and HTML5 widgets you may be thinking of.
-
 
 [Another Developer's Workflow](https://www.parhamdoustdar.com/2016/04/03/tools-of-blind-programmer/)
