@@ -1,14 +1,8 @@
 ---
-title: 'How Blind Software Engineers Make It Work'
-date: 'March 12, 2021'
-excerpt: 'We will look at 10 simple tips and tricks on writing unit tests in JavaScript'
+title: 'Sight beyond Sight... How Blind Software Engineers Make It Work'
+date: 'September 30, 2019'
+excerpt: 'We will look visually impaired software engineers work as developers.'
 cover_image: '/images/posts/img7.jpg'
----
-
----
-title: Sight beyond Sight... How Blind Software Engineers Make It Work
-published: true
-description: 
 tags: Flatiron, FreeCodeCamp, developer, blogs
 ---
 
