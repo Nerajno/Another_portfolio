@@ -2,15 +2,13 @@
 title: 'Sight beyond Sight... How Blind Software Engineers Make It Work'
 date: 'September 30, 2019'
 excerpt: 'We will look visually impaired software engineers work as developers.'
-cover_image: '/images/posts/img7.jpg'
+cover_image: '/images/posts/Sightbeyond.jpeg'
 tags: Flatiron, FreeCodeCamp, developer, blogs
 ---
 
-![](https://thepracticaldev.s3.amazonaws.com/i/qbpchpd8rlmal7lx8a79.jpeg)
+<!-- [](https://thepracticaldev.s3.amazonaws.com/i/qbpchpd8rlmal7lx8a79.jpeg)! -->
 
-   Access to information has become fundamental human right and  the internet being what it is, has become a bastion of information.  The creation off of web pages and web apps has been the creative domain of programmers and software engineers of which 1.7% are blind ([StackOverFlow Survey 2018](https://insights.stackoverflow.com/survey/2018#demographics)). This blog aims to look into that part of the developer community.
-
-#### [Side Note](https://www.theguardian.com/music/2019/jan/04/beyonce-parkwood-entertainment-sued-over-website-accessibility)
+   Access to information has become fundamental human right and  the internet being what it is, has become a bastion of information.  The creation off of web pages and web apps has been the creative domain of programmers and software engineers of which 1.7% are blind ([StackOverFlow Survey 2018](https://insights.stackoverflow.com/survey/2018#demographics)). This blog aims to look into that part of the developer community. Here is the other side to that [coin.](https://www.theguardian.com/music/2019/jan/04/beyonce-parkwood-entertainment-sued-over-website-accessibility) 
 
 ## A little history
 
@@ -18,9 +16,7 @@ tags: Flatiron, FreeCodeCamp, developer, blogs
                             Jim Thatcher
 
   In the 1980s screen reader has became a prevalent tool for  for developers with limited or no sight as it was introduced as a tested and proven tool at IBM by Jim Thatcher, a mathematician at said company.  Like all great problems,  this problem had a personal connection to him.
-Thus, He set out to solve this problem and came up with a solution([read about that process here](https://www.afb.org/aw/5/2/14760)). Over time at IBM, screen readers or “talkies” as they were known evolved (with help from staff who are blind as beta testers ). At that time its ability to improve accessibility was seen was not seen as marketable (remember this was the 80s),  its ability was well proven by the beta testers and then early adopters inside the company to improve improve accessibility to information and computers. Gradually screeners became a primary tool for visually impaired developers and found itself release  as Screen Reader/2 in the mid 1990s as it was then deemed commercially viable.
-
-[Sound of a screen reader](https://boingboing.net/2017/08/28/this-blind-software-developer.html)
+Thus, He set out to solve this problem and came up with a solution([read about that process here](https://www.afb.org/aw/5/2/14760)). Over time at IBM, screen readers or “talkies” as they were known evolved (with help from staff who are blind as beta testers ). At that time its ability to improve accessibility was seen was not seen as marketable (remember this was the 80s),  its ability was well proven by the beta testers and then early adopters inside the company to improve improve accessibility to information and computers. Gradually screeners became a primary tool for visually impaired developers and found itself release  as Screen Reader/2 in the mid 1990s as it was then deemed commercially viable. Here is the sound of a [screen reader](https://boingboing.net/2017/08/28/this-blind-software-developer.html) at work.
 
 ## Meet — Florian Beijers
 
